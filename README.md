@@ -3,8 +3,10 @@
 
 ### Student Information
 * **Student Name:** Raina Quejada
-* **Course & Section:** [Insert your Section here, e.g., BSIT - 31A]
-* **Professor:** [Insert your Professor's Name here]
+
+## Live Application URL
+* Hosted Version: [URL Link]
+
 
 ---
 
