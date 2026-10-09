@@ -1,5 +1,5 @@
 # IT0049 - Web System Technologies
-## Technical Formative Assessment 1: From Zero to Four Pages: Your First CodeIgniter Application
+## Technical Formative Assessment 1: From Zero to Four Pages: 
 
 ### Student Information
 * **Student Name:** Raina Quejada
