@@ -6,7 +6,7 @@
 * **Section:** TW35  
 
 ## Live Application URL
-* Hosted Version: [kshn.page.gd]
+* Hosted Version: [https://kshn.page.gd/]
 
 
 ---
